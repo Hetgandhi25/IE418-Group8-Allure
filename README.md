@@ -5,6 +5,12 @@
   <b>Group 8 - DAIICT</b>
 </p>
 
+<p align="center">
+  🔗 <a href="https://www.figma.com/design/LqbWCSqk7rQcyrdoH9uxD6/UX-Design-Project?node-id=0-1&p=f&t=mOYgCYy8RL82ukfz-0">Project Design</a>  
+  &nbsp;|&nbsp;  
+  🔗 <a href="https://www.figma.com/proto/LqbWCSqk7rQcyrdoH9uxD6/UX-Design-Project?node-id=96-176&t=ntv6LqAclOsGnqAR-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=96%3A176&show-proto-sidebar=1">Interactive Prototype</a>
+</p>
+
 ---
 
 ## 📖 Overview
@@ -70,10 +76,3 @@ ALLURE is crafted to make every salon visit smooth, stylish, and personal.
 | Dishant Patel   | 202201260  |
 
 > **Guide:** Prof. Anupam Rana
-
----
-
-## 🔗 Useful Links
-
-- [UX Design Project](https://www.figma.com/design/LqbWCSqk7rQcyrdoH9uxD6/UX-Design-Project?node-id=0-1&p=f&t=mOYgCYy8RL82ukfz-0)  
-- [Interactive Prototype](https://www.figma.com/proto/LqbWCSqk7rQcyrdoH9uxD6/UX-Design-Project?node-id=96-176&t=ntv6LqAclOsGnqAR-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=96%3A176&show-proto-sidebar=1)  
